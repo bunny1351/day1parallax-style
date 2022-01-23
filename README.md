@@ -1,13 +1,13 @@
-# day1parallax-style
-#day 1 of 21 days of coding
+# parallax-style
 
+-Parallax styling
 
-Parallax styling
+-This link to the website is https://bunny1351.github.io/day1parallax-style/
 
-LANGUAGES USED:
+-LANGUAGES USED: HTML, SASS, JavaScript
 
-HTML
+-This website is to showcase my styling skills using sass and css
 
-SASS
+-I am a web developer learning new skills and looking for opportunities to learn and enhance my skills
 
-JavaScript
+-Reach me at https://www.linkedin.com/in/bhupender-singh-bhauriyal/
